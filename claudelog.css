@@ -1,5 +1,5 @@
 #content {
-  display: flex;
+  display: inline-flex;
   flex-flow: row wrap;
   justify-content: center;
 }
@@ -14,7 +14,6 @@
 
 #scrubber {
   flex-basis: 70%;
-  width: 50%;
   align-self: center;
 }
 
@@ -46,4 +45,37 @@
   align-self: center;
   text-align: center;
   width: 100%;
+}
+
+/* swap component order (scrubber in middle) on smaller screens */
+@media (max-width: 1000px) {
+  #scrubber {
+    order: 1;
+  }
+
+  #thinkText {
+    order: 3;
+  }
+
+  #step-num {
+    order: 2;
+    flex-basis: auto;
+  }
+}
+
+/* disable tooltip on mobile */
+@media (pointer:coarse) {
+  #scrubber:hover + #tooltip {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  #content {
+    min-width: 500px;
+  }
+
+  #screen {
+    align-self: center;
+  }
 }

@@ -75,6 +75,10 @@ setupScrubber(scrubber, tooltip, timelineTooltip, timelineSelect);
 function setupScrubber(scrubber, tooltip, updateTooltip, onSelect) {
   let mouseHeld = false;
   let tooltipValue = scrubber.value;
+  let isTouch = false;
+  scrubber.ontouchstart = function() {
+    isTouch = true;
+  }
 
   scrubber.onmousedown = function() {
     mouseHeld = true;
@@ -87,14 +91,14 @@ function setupScrubber(scrubber, tooltip, updateTooltip, onSelect) {
   }
 
   scrubber.onchange = function(e) {
-    if (mouseHeld) {
+    if (mouseHeld && !isTouch) {
       this.value = tooltipValue;
     }
     onSelect(scrubber.value);
   }
 
   scrubber.oninput = function(e) {
-    if (mouseHeld) {
+    if (mouseHeld && !isTouch) {
       this.value = tooltipValue;
     }
   }
@@ -111,6 +115,5 @@ function setupScrubber(scrubber, tooltip, updateTooltip, onSelect) {
     tooltip.style.left = (e.pageX - (tooltipRect.width / 2) - 15) + 'px';
     tooltip.style.top = (rect.top - (tooltipRect.height + 20)) + 'px';
   }
-
 }
 
