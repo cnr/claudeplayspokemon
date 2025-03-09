@@ -1,0 +1,6 @@
+<thinking>
+I've successfully navigated to the PkMn option. Now I need
+to press "a" to select it and access the Pokémon selection
+screen, where I can switch to Puff.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

@@ -1,0 +1,11 @@
+<thinking>
+I've encountered a wild Zubat while trying to navigate to
+(21, 8). I need to run from this battle to preserve my
+team's health, which is already in a critical state (Sprou
+at 10/69 HP, Sand fainted). Let me follow the standard
+procedure to flee:
+1. Press "a" to advance through the dialog
+2. Navigate to "RUN" in the battle menu
+3. Select "RUN" to flee from the battle
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

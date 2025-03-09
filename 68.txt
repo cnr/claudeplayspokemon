@@ -1,0 +1,7 @@
+<thinking>
+The Team Rocket member is continuing their dialog, saying
+“revive and sell them for cash!". Let me press "a" again
+to advance the dialog and see if there's more information
+or if this will lead to a battle.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

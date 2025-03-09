@@ -1,0 +1,6 @@
+<thinking>
+I'm at the initial battle screen with a wild Zubat. I need
+to press "a" to advance the dialog, then navigate to the
+RUN option to escape from this battle.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

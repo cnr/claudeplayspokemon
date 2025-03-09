@@ -1,0 +1,13 @@
+<thinking>
+I've successfully moved the cursor to "NO". Now I need to
+press "a" to confirm that I don't want to switch Pokémon
+and will continue the battle with Sprou against ZUBAT.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']
+Using tool: edit_single_memory_file - Memory file: pokemon_team
+Using tool: edit_single_memory_file - Memory file: global
+Using tool: create_and_load_memory_file - Memory file:
+mt_moon_team_rocket_battles
+Using tool: create_and_load_memory_file - Memory file:
+mt_moon_b2f_eastern_exploration
+Using tool: compress_messages

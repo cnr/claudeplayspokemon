@@ -1,0 +1,15 @@
+<thinking>
+I've encountered a Team Rocket member at (11, 19), who is
+saying "TEAM ROCKET will find the fossils". This is an NPC
+that I need to interact with before I can proceed. I
+should press "a" to advance the dialog and see what else
+this Team Rocket member has to say. It might provide
+valuable information about the area or might lead to a
+battle.
+My current location is Mt. Moon B2F at coordinates (11,
+19). The appearance of the Team Rocket member confirms
+that the Zubat-like symbol I saw earlier was indeed an
+NPC, not a wild Pokémon. Let me press "a" to continue the
+dialog.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

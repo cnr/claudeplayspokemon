@@ -1,0 +1,7 @@
+<thinking>
+I'm now back at the main battle menu with Puff
+(Jigglypuff). I need to select FIGHT to use Puff's SING
+move to try to put RATTATA to sleep. The cursor is already
+on FIGHT, so I just need to press "a" to select it.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

@@ -1,0 +1,15 @@
+<thinking>
+Perfect! I've successfully navigated to LEECH SEED, which
+has 6/10 PP remaining. This is the best move to use in
+this situation because:
+1. It will drain HP from RATTATA each turn
+2. It will heal some HP back to Sprou, potentially
+allowing Sprou to survive longer
+3. It deals damage each turn without requiring additional
+attacks
+4. It's especially useful against a Level 13 RATTATA which
+likely doesn't have very high HP
+Now I need to press “a" to select LEECH SEED and use it
+against RATTATA.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

@@ -1,0 +1,14 @@
+<thinking>
+I'm in a battle with a Level 10 Zubat. To run from this
+battle, I need to:
+1. Navigate to "RUN" by pressing "right" to get to "PKMn"
+and then "down" to get to "RUN"
+2. Press "a" to select "RUN"
+Let me first press "right" to move from "FIGHT" to "PKMn".
+</thinking>
+Using tool: use_emulator - Buttons: ['right']
+Using tool: edit_single_memory_file - Memory file: mt_moon_master
+Using tool: edit_single_memory_file - Memory file:
+mt_moon_exit_strategy
+Using tool: edit_single_memory_file - Memory file: current_strategy
+Using tool: compress_messages

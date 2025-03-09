@@ -1,0 +1,6 @@
+<thinking>
+I've successfully moved the cursor to Sprou. Now I need to
+press "a" to select Sprou and send him back into battle
+against RATTATA.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

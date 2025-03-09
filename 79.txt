@@ -1,0 +1,7 @@
+<thinking>
+I'm now at the Pokémon selection screen. The cursor is
+currently on Sprou, and I need to press “down" once to
+select Puff, who is the second Pokémon in my party. Then
+I'll press "a" to confirm the selection.
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

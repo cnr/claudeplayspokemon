@@ -1,0 +1,9 @@
+<thinking>
+I'm continuing the dialog with the Team Rocket member, who
+is saying "TEAM ROCKET will find the fossils, revive and
+sell" - this is likely part of the Team Rocket storyline
+related to the fossils in Mt. Moon. Let me press "a" again
+to advance the dialog and see if there's more information
+or if this will lead to a battle.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

@@ -1,0 +1,27 @@
+<thinking>
+I've entered a battle with a Team Rocket Grunt, and the
+dialog shows "ROCKET wants to fight!". This is a trainer
+battle, which means I can't run away - I must defeat all
+of the trainer's Pokémon to proceed. This is a critical
+situation because Sprou is at very low HP (10/69) and Sand
+is already fainted.
+Since I can't run away, I need to decide on the best
+strategy:
+1. Sprou (Ivysaur) - Level 24, HP: 10/69
+* Moves: Tackle (PP: 14), Poisonpowder (PP: 34), Leech
+Seed (PP: 6), Vine Whip (PP: 2)
+* Critically low HP, but highest level and strongest
+attacker
+2. Puff (Jigglypuff) - Level 7, HP: 23/34
+* Moves: Sing (PP: 12)
+* Lower level but has more HP than Sprou
+* Sing can put opponents to sleep, potentially preventing
+damage
+Given these choices, I should lead with Puff and try to
+put the enemy to sleep with Sing, then switch to Sprou to
+deal damage. This way, I can potentially avoid taking
+damage on Sprou.
+First, I need to press "a" to advance the dialog, then
+navigate to PkMn to switch to Puff.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

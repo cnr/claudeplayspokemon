@@ -1,0 +1,11 @@
+<thinking>
+The battle is continuing. The dialog shows "ROCKET is
+about to use", which means the Team Rocket Grunt has
+another Pokémon to send out. I need to press "a" to
+advance the dialog and see what Pokémon ROCKET will use
+next.
+This is concerning because Sprou is still at critically
+low HP (10/69), and both Puff and Sand are fainted. I'll
+need to be very careful with this next opponent.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

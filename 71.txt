@@ -1,0 +1,20 @@
+<thinking>
+I see the Team Rocket Grunt has sent out a Level 13
+RATTATA, and Sprou has been automatically sent out as my
+first Pokémon with 10/69 HP. This is a critical situation
+as Sprou is very low on health.
+I need to quickly decide on the best strategy:
+1. Switch to Puff immediately to preserve Sprou, but this
+will give RATTATA a free attack
+2. Use Leech Seed to start recovering some HP
+3. Use Poisonpowder to inflict damage over time
+4. Try to finish RATTATA quickly with a strong attack
+Given that Sprou has very low HP (10/69), I think the
+safest option is to switch to Puff immediately, even
+though RATTATA will get a free attack. Puff has Sing which
+can put RATTATA to sleep, preventing further damage, and
+has more health (23/34) to absorb hits.
+I need to press "a" to advance the dialog, then navigate
+to PkMn to switch to Puff.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

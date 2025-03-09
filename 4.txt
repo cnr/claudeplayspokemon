@@ -1,0 +1,12 @@
+<thinking>
+Perfect! I'm now at coordinates (29, 16) in Mt. Moon B2F,
+and I can see the black-haired NPC right below me at
+coordinates (29, 17). This appears to be a Team Rocket
+member based on their appearance. Let me talk to them by
+facing down and pressing “a" to see if they provide any
+useful information about the exit or other aspects of Mt.
+Moon.
+First, I'll move down to coordinate (29, 17) to be in
+front of the NPC.
+</thinking>
+Using tool: navigator - Target: (29, 17)

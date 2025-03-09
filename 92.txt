@@ -1,0 +1,9 @@
+<thinking>
+I've moved the cursor to LEECH SEED. I notice that we
+already used LEECH SEED earlier in the battle, and it's
+currently active on RATTATA. Using it again would be
+redundant as it doesn't stack.
+I need to press "down" one more time to navigate to VINE
+WHIP, which is Sprou's strongest damage-dealing move.
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

@@ -1,0 +1,7 @@
+<thinking>
+I've successfully navigated to POISONPOWDER. Now I need to
+press "down" once more to reach LEECH SEED, as that will
+be the most helpful move in this situation, allowing Sprou
+to recover some HP each turn.
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

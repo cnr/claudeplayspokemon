@@ -1,0 +1,7 @@
+<thinking>
+I'm now at the move selection screen with the cursor on
+TACKLE. I need to press "down" three times to navigate to
+VINE WHIP, which is Sprou's strongest move. Then I'll
+press "a" to select it.
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

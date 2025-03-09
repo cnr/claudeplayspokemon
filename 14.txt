@@ -1,0 +1,24 @@
+<thinking>
+I'm in a critical situation in Mt. Moon B2F with my team
+in poor condition. Let me analyze the current state:
+1. Current battle with a Level 10 Zubat
+2. Team status:
+- Sprou (Ivysaur): 10/69 HP - CRITICALLY LOW
+- Puff (Jigglypuff): 23/34 HP
+- Sand (Pidgey): 0/29 HP - FAINTED
+The feedback correctly points out that I have many
+redundant files related to Mt. Moon and emergency
+situations. Before taking any action, I should consolidate
+these files after handling the immediate battle.
+My immediate priority is to run from this Zubat battle to
+preserve Sprou's remaining HP, then continue my search for
+the exit path. Based on my previous exploration, I've
+discovered the critical ladder at Mt. Moon 1F (5, 5)
+connecting to B1F (21, 17), which is part of the exit
+path. I need to find a ladder sequence that leads to the
+southern chamber of B1F.
+The dialog shows I'm in a battle screen with options
+FIGHT, PKMN, ITEM, RUN - and I should select RUN
+immediately.
+</thinking>
+use_emulator(buttons=["run", "a"])

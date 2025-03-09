@@ -1,0 +1,6 @@
+<thinking>
+I've successfully navigated to the "RUN" option. Now I'll
+press "a" to select it and attempt to run from the Zubat
+battle.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

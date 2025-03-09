@@ -1,0 +1,7 @@
+<thinking>
+I've successfully moved the cursor to Puff, who has 23/34
+HP. Now I need to press "a" to select Puff and switch out
+Sprou, which will bring Puff into the battle against
+RATTATA.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

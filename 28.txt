@@ -1,0 +1,10 @@
+<thinking>
+I'm now at the battle menu with the wild Geodude (Level
+10). The cursor is currently on FIGHT, and I need to
+navigate to RUN to escape the battle. To do this, I need
+to press "right" to move to PkMn, and then "down" to move
+to RUN.
+Let me navigate to RUN by pressing "right" and then
+“down".
+</thinking>
+Using tool: use_emulator - Buttons: ['right']

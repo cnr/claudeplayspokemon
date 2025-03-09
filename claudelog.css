@@ -1,0 +1,49 @@
+#content {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+#content > * {
+  margin: 10px;
+}
+
+#thinkText {
+  resize: none;
+}
+
+#scrubber {
+  flex-basis: 70%;
+  width: 50%;
+  align-self: center;
+}
+
+#scrubber:hover + #tooltip {
+  display: flex;
+}
+
+#step-num {
+  text-align: center;
+  align-self: center;
+  color: inherit;
+}
+
+#tooltip {
+  display: none;
+  flex-wrap: wrap;
+  background: #C8C8C8;
+  position: absolute;
+  border-radius: 10px;
+  outline-style: solid;
+}
+
+#tooltip-preview {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+#tooltip-preview-text {
+  align-self: center;
+  text-align: center;
+  width: 100%;
+}

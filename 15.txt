@@ -1,0 +1,20 @@
+<thinking>
+I apologize for the formatting error. Let me try again
+with the proper formatting for the use_emulator tool. I
+need to run from this Zubat battle immediately to preserve
+Sprou's critically low HP. The correct button sequence
+would be to select "RUN" and then press "A" to confirm.
+Looking at the battle screen, I can see that "RUN" is in
+the bottom-right corner. However, I don't see "run" as a
+valid button in the use_emulator function - I should use
+the directional buttons to navigate to RUN and then press
+"a" to select it.
+Based on the dialog, it shows:
+FIGHT>PkMn
+ITEM RUN
+This means I need to navigate to RUN which is in the
+bottom right. From FIGHT (top left with cursor), I need to
+press "right" to get to PKMN, then "down" to get to RUN,
+and then press "a" to select it.
+</thinking>
+Using tool: use_emulator - Buttons: ['right', 'down', 'a']

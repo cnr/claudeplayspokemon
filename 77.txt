@@ -1,0 +1,23 @@
+<thinking>
+I'm back at the main battle menu. The LEECH SEED has been
+successfully applied to RATTATA, but it hasn't drained any
+HP yet - the HP drain will happen at the end of the next
+turn.
+Now I need to decide on my next move:
+1. Use FIGHT > POISONPOWDER: This would add another status
+effect to RATTATA, causing it to lose HP from both poison
+and LEECH SEED every turn. The downside is that if RATTATA
+attacks and hits Sprou, Sprou might faint.
+2. Use PkMn > Switch to Puff: This would protect Sprou
+from potential KO, but RATTATA would get a free attack
+against Puff. Puff has more HP (23/34) so could better
+absorb the hit, and could then use SING to put RATTATA to
+sleep.
+Given Sprou's critically low HP (10/69), I think the safer
+option is to switch to Puff. Even though RATTATA will get
+a free attack, Puff has enough HP to survive, and we can
+then try to put RATTATA to sleep with SING.
+Let me press "right" to navigate to the PkMn option to
+switch Pokemon.
+</thinking>
+Using tool: use_emulator - Buttons: ['right']

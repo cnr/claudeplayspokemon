@@ -1,0 +1,7 @@
+<thinking>
+After selecting Puff, I now have additional options. The
+cursor is on "SWITCH" which is exactly what I want to do -
+switch Sprou out for Puff. I need to press "a" to confirm
+this selection and proceed with the switch.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

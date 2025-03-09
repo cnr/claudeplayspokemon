@@ -1,0 +1,12 @@
+<thinking>
+I've successfully switched from Sprou to Puff, and now
+Puff (Jigglypuff) is in battle against the enemy RATTATA.
+The dialog shows "Enemy RATTATA use", which means RATTATA
+is about to attack Puff (since RATTATA gets a free attack
+when I switch Pokémon).
+I need to press "a" to continue the dialog and see what
+attack RATTATA uses and how much damage Puff takes. After
+that, I'll be able to select a move for Puff, and I'll
+want to use SING to try to put RATTATA to sleep.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

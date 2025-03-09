@@ -1,0 +1,9 @@
+<thinking>
+Perfect! I'm now at the move selection screen for Puff. I
+can see that Puff has SING with 12/15 PP remaining, and
+the cursor is already on SING. The dashes below SING
+indicate that Puff currently knows only one move.
+I need to press "a" to select SING and attempt to put
+RATTATA to sleep.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

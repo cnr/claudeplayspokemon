@@ -1,0 +1,10 @@
+<thinking>
+As expected, the dialog confirms that "Puff fainted!" and
+I'm now at the Pokémon selection screen to choose which
+Pokémon to send out next. The cursor is currently on Puff,
+which is marked as "FNT" (fainted).
+I need to press "up" to move the cursor to Sprou, who is
+my only remaining Pokémon with HP (10/69), and then press
+"a" to select Sprou.
+</thinking>
+Using tool: use_emulator - Buttons: ['up']

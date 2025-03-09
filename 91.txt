@@ -1,0 +1,6 @@
+<thinking>
+I've moved the cursor to POISONPOWDER. I need to press
+"down" two more times to navigate to VINE WHIP, which is
+Sprou's strongest move.
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

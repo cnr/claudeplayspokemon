@@ -1,0 +1,8 @@
+<thinking>
+I'm now at the battle menu against a Level 9 Zubat. The
+cursor is currently on FIGHT, and I need to navigate to
+RUN to escape the battle. To do this, I need to press
+"right" to move to PkMn, and then "down" to move to RUN.
+Let me press "right" first to move to PkMn.
+</thinking>
+Using tool: use_emulator - Buttons: ['right']

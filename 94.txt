@@ -1,0 +1,6 @@
+<thinking>
+Sprou has successfully used VINE WHIP against RATTATA. I
+need to press "a" to advance the dialog and see how
+effective the attack was and whether RATTATA was defeated.
+</thinking>
+Using tool: use_emulator - Buttons: ['a']

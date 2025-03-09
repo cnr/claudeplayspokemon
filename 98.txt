@@ -1,0 +1,8 @@
+<thinking>
+As expected, the game is asking if I want to change
+Pokémon. The cursor is currently on "YES", but since both
+my other Pokémon (Puff and Sand) are fainted, I need to
+select "NO" to continue with Sprou. I need to press "down"
+to move the cursor to "NO" and then press "a" to confirm.
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

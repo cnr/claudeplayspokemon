@@ -1,0 +1,5 @@
+<thinking>
+I've successfully moved the cursor to "PkMn". Now I need
+to press "down" to move to "RUN".
+</thinking>
+Using tool: use_emulator - Buttons: ['down']

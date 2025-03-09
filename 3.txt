@@ -1,0 +1,7 @@
+<thinking>
+I see that I can't directly navigate to (28, 17) as it's
+outside the visible grid from my current position. Let me
+first navigate to (29, 16), which is the closest navigable
+point to that NPC according to the navigator overlay.
+</thinking>
+Using tool: navigator - Target: (29, 16)
